@@ -25,11 +25,11 @@ personalized engagement.
  
 o Provides actionable insights through interactive dashboards, such as: 
     
-    • Personality-based customer segmentation. 
+ • Personality-based customer segmentation. 
     
-    • Churn risk heatmaps and behavioral trend graphs. 
+ • Churn risk heatmaps and behavioral trend graphs. 
     
-    • Recommendations for tailored communication and offers. 
+ • Recommendations for tailored communication and offers. 
 
 Why it matters: 
 
