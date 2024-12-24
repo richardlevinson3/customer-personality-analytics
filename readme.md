@@ -5,11 +5,12 @@ Understanding your customers’ personalities and predicting their behaviors can
 
 What does it do? 
 1. Customer Personality Analytics:
- 
+
 o Extracts personality traits from customer feedback and interaction data 
 using Natural Language Processing (NLP) and machine learning. 
 o Maps traits (e.g., openness, conscientiousness, sentiment tendencies) to 
 customer segments to understand behavioral drivers. 
+
 2. Behavior and Churn Prediction: 
  
 o Predicts future customer actions, such as purchasing behavior, product 
@@ -24,6 +25,7 @@ o Provides actionable insights through interactive dashboards, such as:
 • Personality-based customer segmentation. 
 • Churn risk heatmaps and behavioral trend graphs. 
 • Recommendations for tailored communication and offers. 
+
 Why it matters: 
 • Deeper Customer Understanding: By analyzing personalities, businesses can 
 connect with customers on a personal level, improving satisfaction and loyalty. 
