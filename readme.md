@@ -1,27 +1,18 @@
 
 ## Customer Personality Analytics
 
-Understanding your customers’ personalities and predicting their behaviors can give businesses a significant competitive edge. Our project, the Customer Personality Analytics Engine, transforms raw feedback and behavior data into deep insights, uncovering who your customers are, what they value, and how they are likely to act in the future.
+Understanding your customers’ personalities and predicting their behaviors can give businesses a significant competitive edge. My project, the Customer Personality Analytics Engine, transforms transactions and behavior data into deep insights, uncovering who your customers are, what they value, and how they are likely to act in the future.
 
 What does it do? 
 1. Customer Personality Analytics:
 
-o Extracts personality traits from customer feedback and interaction data 
-using Natural Language Processing (NLP) and machine learning. 
+o Extracts personality traits from customer transaction and interaction data 
+using machine learning. 
 
 o Maps traits (e.g., openness, conscientiousness, sentiment tendencies) to 
 customer segments to understand behavioral drivers. 
 
-2. Behavior and Churn Prediction: 
- 
-o Predicts future customer actions, such as purchasing behavior, product 
-interest, or churn likelihood, using advanced predictive models (like LSTM, 
-Random Forest, or XGBoost). 
-
-o Helps businesses take proactive actions to retain customers and drive 
-personalized engagement. 
- 
-3. Targeted Insights and Recommendations: 
+2. Targeted Insights and Recommendations: 
  
 o Provides actionable insights through interactive dashboards, such as: 
     
@@ -30,6 +21,9 @@ o Provides actionable insights through interactive dashboards, such as:
  • Churn risk heatmaps and behavioral trend graphs. 
     
  • Recommendations for tailored communication and offers. 
+
+o Helps businesses take proactive actions to retain customers and drive 
+personalized engagement. 
 
 Why it matters: 
 
